@@ -14,10 +14,11 @@ I'm a software developer with a strong focus on systems programming and web deve
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/cryphon?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/yvanroes/)
 - 📚 &nbsp; When I am free, I read books and try to understand maths.
-
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cryphon&show_icons=true&locale=en&layout=compact" alt="cryphon" /> -->
 <br>
 
-### 🔨 Languages and Tools for my projects:
+
+### 🔨 Languages and Tools:
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
@@ -42,22 +43,4 @@ I'm a software developer with a strong focus on systems programming and web deve
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 <br>
-
-
-### 📊 Github Stats
-<a href='https://github.com/cryphon/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/cryphon/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/cryphon/github-stats-transparent/output/generated/languages.svg)
-
-</a>
-
-<br>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cryphon&show_icons=true&locale=en&layout=compact" alt="cryphon" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cryphon&show_icons=true&locale=en" alt="cryphon" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cryphon&" alt="cryphon" /></p>
 
