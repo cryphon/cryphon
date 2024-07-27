@@ -10,7 +10,7 @@ I'm a software developer with a strong focus on systems programming and web deve
 ### 🧐 More About Me:
 - 🔭 &nbsp; I’m currently working on **maths library**
 - 🤝 &nbsp; I’m looking to collaborate on any exciting projects
-- 🌱 &nbsp; I’m currently learning C++ and lower level concepts; 
+- 🌱 &nbsp; I’m currently learning C++ and lower level concepts
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/cryphon?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/yvanroes/)
 - 📚 &nbsp; When I am free, I read books and try to understand math concepts to better myself ;)
