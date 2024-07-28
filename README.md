@@ -8,7 +8,7 @@
 I'm a software developer with a strong focus on systems programming and web development. I love working with a variety of languages and tools to build efficient and scalable applications.
 
 ### 🧐 More About Me:
-- 🔭 &nbsp; I’m currently working on **maths library**
+- 🔭 &nbsp; I’m currently working on **maths library** and building a small **testing library**
 - 🤝 &nbsp; I’m looking to collaborate on any exciting projects
 - 🌱 &nbsp; I’m currently learning C++ and lower level concepts
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/cryphon?tab=repositories)
