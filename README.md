@@ -8,7 +8,7 @@
 I'm a software developer with a strong focus on systems programming and web development. I love working with a variety of languages and tools to build efficient and scalable applications.
 
 ### 🧐 More About Me:
-- 🔭 &nbsp; I’m currently working on **NetCore** and building a small **side projects**
+- 🔭 &nbsp; I’m currently working on **NetCore** and building **side projects**
 - 🌱 &nbsp; I’m currently learning more quantitative and networks related concepts
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/cryphon?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/yvanroes/)
