@@ -12,7 +12,7 @@ I'm a software developer with a strong focus on systems programming and web deve
 - 🌱 &nbsp; I’m currently learning more quantitative and networks related concepts
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/cryphon?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/yvanroes/)
-- 📚 &nbsp; When I am free, I read books and try to understand math and economic concepts to better myself ;)
+- 📚 &nbsp;  other than programming, I read books and enjoy playing games with my friends 😄
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cryphon&show_icons=true&locale=en&layout=compact" alt="cryphon" /> -->
 <br>
 
