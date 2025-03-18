@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cryphon</h1>
 
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+![zLLRtXUvrUL3gACQMgwM0xT-0dhGefd-GdDjkJqn4RE]
+
 </p>
-I'm a software developer with a strong focus on systems programming and web development. I love working with a variety of languages and tools to build efficient and scalable applications.
 
 ### 🧐 More About Me:
 - 🔭 &nbsp; I’m currently working on **NetCore** and physics related **Engines**
