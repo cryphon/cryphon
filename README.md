@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cryphon</h1>
 
 <p align="center">
-![zLLRtXUvrUL3gACQMgwM0xT-0dhGefd-GdDjkJqn4RE]
+![zLLRtXUvrUL3gACQMgwM0xT-0dhGefd-GdDjkJqn4RE.webp]
 
 </p>
 
