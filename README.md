@@ -5,7 +5,7 @@
 
 </p>
 
-### 🧐 More About Me:
+### More About Me:
 - 🔭 &nbsp; I’m currently working on **NetCore** and physics related **Engines**
 - 🌱 &nbsp; I’m currently learning more quantitative and networks related concepts
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/cryphon?tab=repositories)
