@@ -64,8 +64,6 @@
 ### 📈 GitHub Stats (flexin', not fixin')
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cryphon&show_icons=true&theme=radical&count_private=true" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryphon&layout=compact&theme=radical" />
 </p>
 
