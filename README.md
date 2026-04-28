@@ -57,7 +57,6 @@
 </table>
 
 ---
-\
 
 ### 💾 Degenerate Badges of Honor
 
