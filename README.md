@@ -9,7 +9,7 @@
 
 - 👨‍💻 Booted into reality with `main() {}` instead of crying
 - 🧠 Writes engines that probably violate Newton's laws and human rights
-- 📉 Refuses to document anything but will spend 4 hours aligning README badges
+- 📉 Documentation style: "if it's not obvious, you're not elite enough"
 - 🧪 Studies quant finance not to get rich, but to lose money faster... intelligently
 - 🔥 Terminal rice enjoyer, Neovim config war veteran
 - 🐸 Sleep is a background process, occasionally segfaults
@@ -21,15 +21,43 @@
 
 ---
 
-### 🧰 Tools I Abuse
 
-![Neovim](https://img.shields.io/badge/Neovim-%2300FF00?style=for-the-badge&logo=neovim&logoColor=white)
+## 🧰 Tools I Abuse Daily
+ 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      
+**🎯 What I'm Good At (allegedly)**
+ 
+[![Systems Design](https://img.shields.io/badge/Systems_Design-FF69B4?style=for-the-badge&logo=diagrams.net&logoColor=white)]()
+[![Performance Optimization](https://img.shields.io/badge/Performance-FFD700?style=for-the-badge&logo=bolt&logoColor=black)]()
+ 
+**💻 Languages & Frameworks**
+
+
+[![C/C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]()
+
+**⚙️ Hardware & HDL (Learning)**
+ 
+[![Verilog](https://img.shields.io/badge/Verilog-FF6B00?style=for-the-badge&logo=verilog&logoColor=white)]()
+[![VHDL](https://img.shields.io/badge/VHDL-1B6AC6?style=for-the-badge&logoColor=white)]()
+ 
+**💗My Favs**
+ 
+[![Neovim](https://img.shields.io/badge/Neovim-%2300FF00?style=for-the-badge&logo=neovim&logoColor=white)]()
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Docker](https://img.shields.io/badge/Docker-chaotic?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-Regret-red?style=for-the-badge&logo=git)
+[![Git](https://img.shields.io/badge/Git-Regret-red?style=for-the-badge&logo=git)]()
+[![GDB](https://img.shields.io/badge/GDB-Sanity%20Loss-darkred?style=for-the-badge&logo=gnu)]()
 ![Tuna Mayo](https://img.shields.io/badge/Fuel-TunaMayoOnigiri-blueviolet?style=for-the-badge)
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)]()
+
+  </tr>
+</table>
 
 ---
+\
 
 ### 💾 Degenerate Badges of Honor
 
