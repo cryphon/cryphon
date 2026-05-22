@@ -1,4 +1,4 @@
-<h1 align="center">👾 Cryphon | Computer Systems 🦴</h1>
+<h1 align="center">👾 Cryphon | Computer Systems</h1>
 <p align="center"><i>"I tried touching grass once. It segfaulted."</i></p>
 
 <p align="center">
