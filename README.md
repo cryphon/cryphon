@@ -11,7 +11,7 @@
 - 🧠 Writes engines that probably violate Newton's laws and human rights
 - 📉 Documentation style: "if it's not obvious, you're not elite enough"
 - 🧪 Studies quant finance not to get rich, but to lose money faster... intelligently
-- 🔥 Terminal rice enjoyer, Neovim config war veteran
+- 🔥 Terminal rice enjoyer, Neovim config war veteran, aspiring to be a kernel kernel
 - 🐸 Sleep is a background process, occasionally segfaults
 
 ---
