@@ -1,5 +1,5 @@
 <h1 align="center">👾 Cryphon | Computer Systems</h1>
-<p align="center"><i>"I tried touching grass once. It segfaulted."</i></p>
+<p align="center"><i>"I tried touching grass once. It segfaulted. ;)"</i></p>
 
 <p align="center">
   <img src="https://media.tenor.com/R6YV3J8IN-oAAAAC/anime-hacker.gif" width="320"/>
