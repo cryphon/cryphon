@@ -10,7 +10,7 @@
 - 👨‍💻 Booted into reality with `main() {}` instead of crying
 - 🧠 Writes engines that probably violate Newton's laws and human rights
 - 📉 Documentation style: "if it's not obvious, you're not elite enough"
-- 🧪 Studies finance and economics not to get rich, but to lose money faster... intelligently
+- 🧪 Studies electronics tring not to "blow up" the world...
 - 🔥 Terminal rice enjoyer, Neovim config war veteran, trying to be a kernel dev XD
 - 🐸 Sleep is a background process, occasionally segfaults
 ```
