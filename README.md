@@ -2,7 +2,7 @@
 <p align="center"><i>"I tried touching grass once. It segfaulted. XD"</i></p>
 
 <p align="center">
-  <img src="https://media.tenor.com/R6YV3J8IN-oAAAAC/anime-hacker.gif" width="320"/>
+  <img src="img.webp" alt="Alt text" width="400">
 </p>
 
 ---
