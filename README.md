@@ -9,7 +9,7 @@
 ```
 - 👨‍💻 Booted into reality with `main() {}` instead of crying
 - 🧠 Writes engines that probably violate Newton's laws and human rights
-- 📉 Documentation style: "if it's not obvious, you're not elite enough"
+- 📉 Documentation style: IYKYK
 - 🧪 Studies electronics trying (not) to "blow up" the world...
 - 🔥 Terminal rice enjoyer, Neovim config war veteran, trying to be a kernel dev XD
 - 🐸 Sleep is a background process, occasionally segfaults into the 4th dimension
