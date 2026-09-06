@@ -1,5 +1,5 @@
 <h1 align="center">👾 Cryphon | Computer Systems</h1>
-<p align="center"><i>"I tried touching grass once. It segfaulted. XD"</i></p>
+<p align="center"><i>"I tried touching grass once. It segfaulted."</i></p>
 
 <p align="center">
   <img src="img.webp" alt="Alt text" width="400">
